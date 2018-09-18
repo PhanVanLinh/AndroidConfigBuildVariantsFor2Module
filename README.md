@@ -1,0 +1,1 @@
+# AndroidConfigBuildVariantsFor2Module
